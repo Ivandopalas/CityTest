@@ -8,32 +8,27 @@ import './index.scss';
 const todosTemplate = [
   {
     id: 0,
-    label: 'Fix an ability to display all tasks',
+    label: 'Починить отоброжение списка задач',
     checked: false,
   },
   {
     id: 1,
-    label: 'Fix a layout, checkboxes should be listed in a column',
+    label: 'Поправить стили, чтобы список задач отображался вертикально',
     checked: false,
   },
   {
     id: 2,
-    label: 'Fix an ability to add a new task',
+    label: 'Реализовать функционал кнопки добавления новых задач',
     checked: false,
   },
   {
     id: 3,
-    label: 'Fix an ability to toggle a task',
+    label: 'Починить возможно отмечать задаче в чекбоксе',
     checked: false,
   },
   {
     id: 4,
-    label: 'Fix an ability to delete a task',
-    checked: false,
-  },
-  {
-    id: 5,
-    label: 'Fix an ability to count completed tasks',
+    label: 'Починить функционал удаления задачи',
     checked: false,
   },
 ];
